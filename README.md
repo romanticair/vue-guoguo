@@ -1,5 +1,13 @@
 # vue-guoguo
 
+外卖点餐系统，包括三大视图
+1. 商家页面
+2. 商品页面
+3. 用户评论页面
+
+
+
+
 ## Project setup
 ```
 npm install
